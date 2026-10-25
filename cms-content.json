@@ -1,0 +1,140 @@
+{
+  "experience": [
+    {
+      "role": "Project Intern",
+      "period": "Jun 2026 – Aug 2026",
+      "company": "Tata Institute of Fundamental Research (TIFR) · Mumbai",
+      "details": "Built and maintained the TIFR Guesthouse Management Website.\nDeveloped and maintained the website using PHP, HTML, CSS, JavaScript and MySQL\nDesigned and implemented a CMS enabling administrators to create, edit and delete website pages dynamically\nBuilt modules for pages, galleries and announcements, and integrated an admin panel with rich-text editing",
+      "tags": [
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "CMS",
+        "Admin Panel"
+      ]
+    },
+    {
+      "role": "Java Developer Intern",
+      "period": "Jan 2026 – Feb 2026",
+      "company": "JavaSpark Solutions",
+      "details": "Built full-stack Java web applications from UI to database layer.\nDeveloped applications using JSP, JDBC, MySQL and Apache Tomcat\nDelivered a Student Management System, a Cryptocurrency Price Tracker (live API data, JSON parsing, instant search), a Unit Converter and an acronym-dictionary app\nIntegrated SQL and Firebase databases for real-time synchronisation and persistent storage",
+      "tags": [
+        "Java",
+        "JSP",
+        "JDBC",
+        "MySQL",
+        "Tomcat",
+        "Firebase"
+      ]
+    },
+    {
+      "role": "Data Analysis Intern",
+      "period": "Jan 2025 – Mar 2025",
+      "company": "Main Flow Services & Technologies Pvt. Ltd.",
+      "details": "My first real exposure to data work, applying SQL to practical problems.\nExecuted SQL workflows for data extraction, cleansing, transformation and reporting\nOptimised SQL queries and produced structured analytical reports for mentors",
+      "tags": [
+        "SQL",
+        "Query Optimisation",
+        "Reporting"
+      ]
+    }
+  ],
+  "certs": [
+    {
+      "name": "Java & Android Developer with DSA",
+      "issuer": "Kamal Classes",
+      "year": "Jul – Oct 2025"
+    },
+    {
+      "name": "MySQL: SQL, PL/SQL & DBA Programming",
+      "issuer": "Kamal Classes",
+      "year": "Sep – Oct 2025"
+    },
+    {
+      "name": "Certification in Learn Generative AI",
+      "issuer": "EduBridge Learning",
+      "year": "Sep 2025",
+      "skills": "Prompt Writing · Artificial Intelligence (AI)",
+      "certId": "EBEON09251226095"
+    },
+    {
+      "name": "Introduction to Data Science",
+      "issuer": "Cisco Networking Academy",
+      "year": "Jan 2025"
+    },
+    {
+      "name": "HTML 5, Python & Flask Framework — All In One Complete Course",
+      "issuer": "Udemy",
+      "year": "Dec 2024",
+      "skills": "Flask · HTML5 · Python",
+      "certId": "UC-93fa05al-fd59-4266-8649-fu295@bc6c41"
+    },
+    {
+      "name": "Data Analysis Using Python",
+      "issuer": "IBM",
+      "year": "Dec 2024"
+    },
+    {
+      "name": "Python for Data Science",
+      "issuer": "IBM",
+      "year": "Dec 2024"
+    },
+    {
+      "name": "Data Science & Analytics",
+      "issuer": "HP LIFE",
+      "year": "Dec 2024"
+    },
+    {
+      "name": "TCS iON Career Edge – Young Professional",
+      "issuer": "TCS iON",
+      "year": "Nov – Dec 2024"
+    },
+    {
+      "name": "GenAI 101 with Pieces",
+      "issuer": "Pieces",
+      "year": "Nov 2024"
+    },
+    {
+      "name": "MS-CIT (93%)",
+      "issuer": "MSBTE & MKCL",
+      "year": "Nov 2021"
+    },
+    {
+      "name": "GCC-TBC Computer Typing, English 40 wpm — A Grade",
+      "issuer": "MSCE, Pune",
+      "year": "Jul 2023"
+    },
+    {
+      "name": "GCC-TBC Computer Typing, English 30 wpm — A Grade",
+      "issuer": "MSCE, Pune",
+      "year": "Jul – Aug 2022"
+    },
+    {
+      "name": "HTML Bootcamp",
+      "issuer": "Bootcamp",
+      "year": ""
+    },
+    {
+      "name": "Figma UI/UX Workshop",
+      "issuer": "Workshop",
+      "year": ""
+    }
+  ],
+  "education": [
+    {
+      "year": "2023–2027",
+      "school": "Datta Meghe College of Engineering",
+      "detail": "Bachelor of Engineering – Computer Engineering · Airoli, Navi Mumbai · University of Mumbai"
+    },
+    {
+      "year": "2023",
+      "school": "Maharashtra State Board (MSBSHSE)",
+      "detail": "Class XII · 65%"
+    },
+    {
+      "year": "2021",
+      "school": "Omkar International School",
+      "detail": "Class X, ICSE · 88.5%"
+    }
+  ]
+}
